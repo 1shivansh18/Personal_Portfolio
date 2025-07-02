@@ -115,7 +115,7 @@ const Hero = () => {
                 
                 <div className="relative w-full h-full rounded-full overflow-hidden shadow-2xl border-4 border-blue-100 dark:border-blue-900/30 bg-gradient-to-b from-transparent to-blue-50 dark:to-blue-900/10 transform hover:scale-105 transition-transform duration-500">
                   <img 
-                    src="public/shivansh.jpg" 
+                    src="shivansh.jpg" 
                     alt="Developer profile" 
                     className="w-full h-full object-cover"
                     onError={(e) => {
