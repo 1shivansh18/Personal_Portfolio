@@ -8,7 +8,7 @@ const Projects = () => {
       id: 1,
       title: "Real Time Chat Application",
       description: "A real-time chat application built using React and Spring Boot. Features include real-time messaging, user authentication, and message history.",
-      image: "public/ChatApp.png",
+      image: "ChatApp.png",
       technologies: ["Spring Boot", "React", "MongoDB", "WebSocket"],
       // github: "https://github.com/yourusername/ecommerce",
       // live: "https://ecommerce-demo.com"
@@ -17,7 +17,7 @@ const Projects = () => {
       id: 2,
       title: "Portfolio Website",
       description: "A modern portfolio website showcasing projects and skills. Built with React and Tailwind CSS, featuring smooth animations and responsive design.",
-      image: "public/portfolio.png",
+      image: "portfolio.png",
       technologies: ["React", "Tailwind", "Framer Motion"],
       // github: "https://github.com/yourusername/task-manager",
       // live: "https://task-manager-demo.com"
@@ -26,7 +26,7 @@ const Projects = () => {
       id: 3,
       title: "AI Chat Bot",
       description: "An intelligent chatbot powered by AI, offering real-time responses and natural language processing. Built with React and integrated with AI APIs.",
-      image: "public/chatbot.jpeg",
+      image: "chatbot.jpeg",
       technologies: ["Spring Boot","React","Gemini API" ],
       // github: "https://github.com/yourusername/weather-dashboard",
       // live: "https://weather-dashboard-demo.com"

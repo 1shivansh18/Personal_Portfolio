@@ -13,7 +13,7 @@ const ProjectsPage = () => {
       id: 1,
       title: "Real Time Chat Application",
       description: "A real-time chat application built using React and Spring Boot. Features include real-time messaging, user authentication, and message history.",
-      image: "public/ChatApp.png",
+      image: "ChatApp.png",
       technologies: ["Spring Boot", "React", "MongoDB", "WebSocket"],
       // github: "https://github.com/yourusername/ecommerce",
       // live: "https://ecommerce-demo.com"
@@ -22,7 +22,7 @@ const ProjectsPage = () => {
       id: 2,
       title: "Portfolio Website",
       description: "A modern portfolio website showcasing projects and skills. Built with React and Tailwind CSS, featuring smooth animations and responsive design.",
-      image: "public/portfolio.png",
+      image: "portfolio.png",
       technologies: ["React", "Tailwind", "Framer Motion"],
       // github: "https://github.com/yourusername/task-manager",
       // live: "https://task-manager-demo.com"
@@ -31,7 +31,7 @@ const ProjectsPage = () => {
       id: 3,
       title: "AI Chat Bot",
       description: "An intelligent chatbot powered by AI, offering real-time responses and natural language processing. Built with React and integrated with AI APIs.",
-      image: "public/chatbot.jpeg",
+      image: "chatbot.jpeg",
       technologies: ["Spring Boot","React","Spring AI","Gemini API" ],
       // github: "https://github.com/yourusername/weather-dashboard",
       // live: "https://weather-dashboard-demo.com"
@@ -40,7 +40,7 @@ const ProjectsPage = () => {
       id: 4,
       title: "Course Management System",
       description: "A course management system built using spring boot and react . In this project user can add,edit,delete and view the courses.",
-      image: "public/courseImg.jpeg",
+      image: "courseImg.jpeg",
       technologies: ["Spring Boot","React","JavaScript" , "Bootstrap" ],
       // github: "https://github.com/yourusername/portfolio",
       // live: "https://your-portfolio.com"
@@ -49,7 +49,7 @@ const ProjectsPage = () => {
       id: 5,
       title: "Tic Tac Toe Game",
       description: "A tic tac toe game built using HTML, CSS and JavaScript. In this game user can play with computer. User can also reset the game.",
-      image: "public/tictactoe.png",
+      image: "tictactoe.png",
       technologies: ["HTML", "CSS", "JavaScript"],
       // github: "https://github.com/yourusername/social-dashboard",
       // live: "https://s3-tictactoe.netlify.app/"
@@ -58,7 +58,7 @@ const ProjectsPage = () => {
       id: 6,
       title: "Voting App",
       description: "A voting app built using Spring Boot . ",
-      image: "public/quiz.webp",
+      image: "quiz.webp",
       technologies: ["Java", "Spring Boot", "Spring JPA"],
       // github: "https://github.com/yourusername/recipe-finder",
       // live: "https://recipe-finder-demo.com"

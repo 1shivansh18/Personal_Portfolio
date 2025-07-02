@@ -2,14 +2,12 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://1shivansh18.github.io/Personal_Portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.17",
