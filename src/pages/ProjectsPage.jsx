@@ -20,6 +20,16 @@ const ProjectsPage = () => {
     },
     {
       id: 2,
+      title: "SmartReply Assistant",
+      description:
+        "An AI-powered email assistant that suggests smart replies based on the email content. Built with Spring boot and React for a seamless user experience.",
+      image: "aiEmail.png",
+      technologies: ["Spring Boot", "React", "Gemini Api", "tailwind"],
+      // github: "https://github.com/yourusername/ecommerce",
+      // live: "https://ecommerce-demo.com"
+    },
+    {
+      id: 3,
       title: "Portfolio Website",
       description: "A modern portfolio website showcasing projects and skills. Built with React and Tailwind CSS, featuring smooth animations and responsive design.",
       image: "portfolio.png",
@@ -28,7 +38,7 @@ const ProjectsPage = () => {
       // live: "https://task-manager-demo.com"
     },
     {
-      id: 3,
+      id: 4,
       title: "AI Chat Bot",
       description: "An intelligent chatbot powered by AI, offering real-time responses and natural language processing. Built with React and integrated with AI APIs.",
       image: "chatbot.jpeg",
@@ -37,7 +47,16 @@ const ProjectsPage = () => {
       // live: "https://weather-dashboard-demo.com"
     },
     {
-      id: 4,
+      id: 5,
+      title: "ToDo List App",
+      description: "A simple and intuitive ToDo list application that helps users manage their tasks efficiently. Built with React and styled with Tailwind CSS. Users can add, edit, and delete tasks",
+      image: "todo.jpg",
+      technologies: ["React","Tailwind","JavaScript" ],
+      // github: "https://github.com/yourusername/weather-dashboard",
+      // live: "https://weather-dashboard-demo.com"
+    },
+    {
+      id: 5,
       title: "Course Management System",
       description: "A course management system built using spring boot and react . In this project user can add,edit,delete and view the courses.",
       image: "courseImg.jpeg",
@@ -46,7 +65,7 @@ const ProjectsPage = () => {
       // live: "https://your-portfolio.com"
     },
     {
-      id: 5,
+      id: 6,
       title: "Tic Tac Toe Game",
       description: "A tic tac toe game built using HTML, CSS and JavaScript. In this game user can play with computer. User can also reset the game.",
       image: "tictactoe.png",
@@ -55,7 +74,7 @@ const ProjectsPage = () => {
       // live: "https://s3-tictactoe.netlify.app/"
     },
     {
-      id: 6,
+      id: 7,
       title: "Voting App",
       description: "A voting app built using Spring Boot . ",
       image: "quiz.webp",

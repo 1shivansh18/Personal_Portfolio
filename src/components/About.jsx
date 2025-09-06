@@ -13,12 +13,12 @@ const About = () => {
           <ScrollAnimation direction="left" delay={0.2}>
             <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md h-full transition-all duration-300 hover:shadow-xl hover:transform hover:scale-[1.02] hover:bg-gray-50 dark:hover:bg-gray-700">
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-                I am a passionate Java Full-Stack Developer with expertise in Spring Boot, React, SQL, and MongoDB. I have experience building real-time web applications, RESTful APIs, and secure authentication systems using Spring Security. My projects include a real-time chat application using WebSockets and a chatbot powered by the Gemini API.
-              </p>
+I’m Shivansh Nema, a passionate Full-Stack Java Developer with a strong foundation in Java, Spring Boot, React, SQL, and MongoDB. I enjoy building scalable applications, solving real-world problems, and creating user-friendly digital experiences.With hands-on experience from internships and multiple projects, I have worked on developing real-time chat applications, AI-powered tools, and responsive web solutions. My projects showcase a blend of backend strength, frontend creativity, and integration with modern technologies like Spring AI, WebSocket, and Docker.           </p>
               
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                I have also completed a one-month virtual internship at CodSoft as a Java Developer, where I worked on Core Java, JDBC, SQL, and MongoDB. Additionally, I am exploring Docker, DevOps, and system design to expand my technical skills. I am eager to apply my knowledge to real-world projects and continuously improve my expertise.
-              </p>
+Beyond coding, I take pride in my problem-solving skills, adaptability, and self-motivation. I’ve solved 100+ DSA problems on LeetCode, achieved a 5-star Java rating on HackerRank, and continue to sharpen my expertise in system design and cloud technologies.
+
+I’m driven by curiosity and a desire to contribute to impactful projects. Currently, I’m seeking opportunities in backend development and full-stack engineering, where I can leverage my skills to deliver robust, efficient, and innovative solutions.              </p>
             </div>
           </ScrollAnimation>
           
@@ -35,8 +35,13 @@ const About = () => {
               <div className="flex flex-wrap gap-2">
                 <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">Java</span>
                 <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">Spring Boot</span>
-                <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">React</span>
+                <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">Spring AI</span>
+
+                <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">ReactJs</span>
                 <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">JavaScript</span>
+                                <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">HTML</span>
+                <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">Git & GitHub</span>
+
                 <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">CSS</span>
                 <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">Tailwind</span>
                 <span className="px-2 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 rounded-full text-xs font-medium transition-all duration-200 hover:bg-blue-200 dark:hover:bg-blue-800/40">SQL</span>
@@ -55,11 +60,15 @@ const About = () => {
               <div className="space-y-2">
                 <div className="p-2 rounded-md transition-all duration-200 hover:bg-gray-100 dark:hover:bg-gray-700/50">
                   <h4 className="font-medium text-gray-800 dark:text-white text-sm">B.tech in Computer Science</h4>
-                  <p className="text-gray-600 dark:text-gray-400 text-xs">Gyan Ganga College Of Technology, 2022-2026</p>
+                  <p className="text-gray-600 dark:text-gray-400 text-xs">Gyan Ganga College Of Technology|CGPA:7.48|2022-2026</p>
                 </div>
                 <div className="p-2 rounded-md transition-all duration-200 hover:bg-gray-100 dark:hover:bg-gray-700/50">
-                  <h4 className="font-medium text-gray-800 dark:text-white text-sm">Frontend Development Certification</h4>
-                  <p className="text-gray-600 dark:text-gray-400 text-xs">Online Course, 2023</p>
+                  <h4 className="font-medium text-gray-800 dark:text-white text-sm">Full Stack Development Certification</h4>
+                  <p className="text-gray-600 dark:text-gray-400 text-xs">Online Course, 2024</p>
+                </div>
+                <div className="p-2 rounded-md transition-all duration-200 hover:bg-gray-100 dark:hover:bg-gray-700/50">
+                  <h4 className="font-medium text-gray-800 dark:text-white text-sm">Java Programming</h4>
+                  <p className="text-gray-600 dark:text-gray-400 text-xs">Online Course, 2024</p>
                 </div>
               </div>
             </div>
